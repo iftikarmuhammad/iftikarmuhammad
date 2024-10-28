@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on python software development and machine learning.
-- 🌱 I’m currently learning applied machine learning on network and NLP.
+- 🔭 I’m currently working on applied machine learning on network, sport sciences and LLM.
 
 <!--
 **iftikarmuhammad/iftikarmuhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
